@@ -78,5 +78,9 @@ Finally, the model was tested using the provided questions. To reduce memory con
 **2. Where can I find the best Italian food in the city?**
     	 Based on ratings alone, both Spunciotti Di Pesce - Andreazzi Nereo and Ristorante Pizzeria S'Aligusta offer excellent experiences with perfect scores; however, considering reviews suggest fresh local specialties and friendly service respectively, these two establishments stand out among others rated similarly. It would be advisable to visit either one depending on whether you prefer traditional street food or quality pizza by the lake view.
 
+**3. Are there any 24-hour restaurants in the city?**
+	 Yes, both Fastdrink24 and Wok Time offer extended opening hours during weekdays; however, neither operates all day every night as per available data.
+
+
 
 
