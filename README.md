@@ -1,7 +1,11 @@
 # Restaurants-RAG-Padova
-**Question Answering system with RAG about reviews of restaurants in Padova**
 
+
+**Question Answering system with RAG about reviews of restaurants in Padova**
+---
+## Project overview
 This project creates a small pipeline for answering questions regarding restaurants in Padova. 
+---
 ## The project can be structured as follow:
 ### Secion 0: Data retrieval
     Using the APIs from Google Maps, the following tasks were performed:
@@ -36,6 +40,8 @@ This project creates a small pipeline for answering questions regarding restaura
 ### Section 5: Test model
       Finally, the model was tested using the questions provided. In order to reduce memory consumption, every 5 questions, the GPU memory was flushed. 
 
-Conclusions:
+## Conclusions:
 
-Model is able to answer the given questions, which is what we inteded. Nevertheless, answers are too long. Despite modifying some parameters, the final "questions-answers.txt" had what was considered the most suitable configuration. Perhaps some fine-tunning was necesary or to concadenate a model able to summarize answers.
+- Model is able to answer the given questions, which is what we inteded. Nevertheless, answers are too long.
+- Despite modifying some parameters, the final "questions-answers.txt" had what was considered the most suitable configuration.
+- Perhaps some fine-tunning was necesary or to concadenate a model able to summarize answers.
