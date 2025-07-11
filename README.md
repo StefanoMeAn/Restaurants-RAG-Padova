@@ -73,6 +73,10 @@ Finally, the model was tested using the provided questions. To reduce memory con
 ## Questions & Answers:
 
 **1. What are the best restaurants in the city?**
-  	 Based on ratings alone, La Pizzeria Maxim has an excellent reputation; it offers personalized service along with high quality Italian cuisine. For American fast food lovers seeking value deals like discounted drink prices during weekdays, consider visiting Hamerca's Ghetto Viale Dell'Arco Padova. Both establishments provide distinct dining experiences tailored to different preferences within the same locale.
+      Based on ratings alone, La Pizzeria Maxim has an excellent reputation; it offers personalized service along with high quality Italian cuisine. For American fast food lovers seeking value deals like discounted drink prices during weekdays, consider visiting Hamerca's Ghetto Viale Dell'Arco Padova. Both establishments provide distinct dining experiences tailored to different preferences within the same locale.
+
+**2. Where can I find the best Italian food in the city?**
+    	 Based on ratings alone, both Spunciotti Di Pesce - Andreazzi Nereo and Ristorante Pizzeria S'Aligusta offer excellent experiences with perfect scores; however, considering reviews suggest fresh local specialties and friendly service respectively, these two establishments stand out among others rated similarly. It would be advisable to visit either one depending on whether you prefer traditional street food or quality pizza by the lake view.
+
 
 
