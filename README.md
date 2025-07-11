@@ -75,12 +75,14 @@ Finally, the model was tested using the provided questions. To reduce memory con
 **Question related to a landmark proximity**
 **A. "Is there a restaurant close to a church?"**
  Yes, both Ristorante pizzeria bar L'OASI DEI SAPORI and Morning Cafe' Padova are restaurants with locations within proximity to churches as indicated by their distances mentioned in Documents 1 and 2 respectively; however, it should be noted that these specific measurements may vary depending on actual walking distance or public transportation routes used during different times of day or year.
+ 
  **B. "What is the closest restaurant to Piazzale Stazione?"**
   The three restaurants mentioned (Pizzeria da Giuliano, BAR PIZZERIA 21, and Rustichelli & Mangione) all share the same location near Piazzale della Stazione; therefore, they are equally close without additional data needed for comparison. However, if one must choose among them solely based on proximity as defined by shared address, it's impossible to determine which would be "closest" since each occupies different street numbers within the vicinity but shares the common area name. To accurately identify the nearest establishment relative to another specific point or landmark outside this group requires further geographical detail.
+  
 **C. "Is there a restaurant near Prato della Valle?"**
    Yes, both Al Prato with its location being directly adjacent (Via Prato della Valle) as well as The Food Hub which shares the same street name but different addresses within it offer restaurants nearby Prato della Valle; however, they differ slightly by distance relative to other landmarks mentioned for each establishment.
 
-
+**Questions from dataset**
 **1. What are the best restaurants in the city?**
       Based on ratings alone, La Pizzeria Maxim has an excellent reputation; it offers personalized service along with high quality Italian cuisine. For American fast food lovers seeking value deals like discounted drink prices during weekdays, consider visiting Hamerca's Ghetto Viale Dell'Arco Padova. Both establishments provide distinct dining experiences tailored to different preferences within the same locale.
 
