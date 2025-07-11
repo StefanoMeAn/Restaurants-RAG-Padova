@@ -68,3 +68,7 @@ Finally, the model was tested using the provided questions. To reduce memory con
 - The model is able to answer the given questions, which is what we intended. Nevertheless, answers are too long.  
 - Despite modifying some parameters, the final `questions-answers.txt` contained what was considered the most suitable configuration.  
 - Perhaps some fine-tuning was necessary or concatenating a model able to summarize answers.
+
+
+## Questions & Answers:
+
