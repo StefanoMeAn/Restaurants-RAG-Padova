@@ -72,3 +72,7 @@ Finally, the model was tested using the provided questions. To reduce memory con
 
 ## Questions & Answers:
 
+**1. What are the best restaurants in the city?**
+  	 Based on ratings alone, La Pizzeria Maxim has an excellent reputation; it offers personalized service along with high quality Italian cuisine. For American fast food lovers seeking value deals like discounted drink prices during weekdays, consider visiting Hamerca's Ghetto Viale Dell'Arco Padova. Both establishments provide distinct dining experiences tailored to different preferences within the same locale.
+
+
